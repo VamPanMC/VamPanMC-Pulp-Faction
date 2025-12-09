@@ -1,3 +1,4 @@
+//This as only been tested in NeoForge 1.21.1 to 1.21.8
 package net.namespace.modid; //change this to your package information
 
 import net.neoforged.fml.common.EventBusSubscriber;
