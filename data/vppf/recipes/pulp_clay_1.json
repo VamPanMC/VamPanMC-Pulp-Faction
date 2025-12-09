@@ -1,0 +1,14 @@
+{
+  "type": "vppf:pulper",
+  "input": {
+    "item": "minecraft:bricks",
+    "count": 1
+  },
+  "output": {
+    "id": "minecraft:clay_ball",
+    "count": 2
+  },
+  "category": [
+    "misc"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "type": "vppf:pulper",
+  "input": {
+    "tag": "c:pulp_level/4",
+    "count": 1
+  },
+  "output": {
+    "id": "vppf:gold_rubble",
+    "count": 2
+  },
+  "category": [
+    "misc"
+  ]
+}

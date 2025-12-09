@@ -1,0 +1,14 @@
+{
+  "type": "vppf:pulper",
+  "input": {
+    "item": "minecraft:wheat",
+    "count": 9
+  },
+  "output": {
+    "id": "minecraft:slime_ball",
+    "count": 1
+  },
+  "category": [
+    "misc"
+  ]
+}

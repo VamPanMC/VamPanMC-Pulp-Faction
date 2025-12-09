@@ -1,0 +1,14 @@
+{
+  "type": "vppf:pulper",
+  "input": {
+    "item": "minecraft:mycelium",
+    "count": 2
+  },
+  "output": {
+    "id": "minecraft:mud",
+    "count": 1
+  },
+  "category": [
+    "misc"
+  ]
+}

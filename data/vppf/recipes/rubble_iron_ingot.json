@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smelting",
+  "category": "blocks",
+  "experience": 4,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "vppf:iron_rubble"
+  },
+  "result": {
+    "id": "minecraft:iron_ingot"
+  }
+}

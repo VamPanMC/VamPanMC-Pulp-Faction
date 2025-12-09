@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "bcb",
+    "dbd"
+  ],
+  "key": {
+    "a": {
+      "item": "vppf:iron_rubble"
+    },
+    "b": {
+      "item": "vppf:diamond_rubble"
+    },
+    "c": {
+      "item": "vppf:auto_pulper_block"
+    },
+    "d": {
+      "item": "vppf:gold_rubble"
+    }
+  },
+  "result": {
+    "id": "vppf:auto_pulper_tier_two_block",
+    "count": 1
+  }
+}

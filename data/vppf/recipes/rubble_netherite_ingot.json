@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smelting",
+  "category": "blocks",
+  "experience": 6,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "vppf:netherite_rubble"
+  },
+  "result": {
+    "id": "minecraft:netherite_scrap"
+  }
+}
