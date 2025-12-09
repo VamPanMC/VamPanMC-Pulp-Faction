@@ -2,7 +2,7 @@
 <img width="1039" height="161" alt="image" src="https://github.com/user-attachments/assets/a11dccb3-36f8-47b9-9db8-7d74cea35801" />
 
 <img width="1157" height="827" alt="image" src="https://github.com/user-attachments/assets/b4af7dca-ccd0-4058-9985-71f71efc9060" />
-
+<img width="178" height="28" alt="image" src="https://github.com/user-attachments/assets/819e04c0-b074-42f6-915b-72116ba9d04e" /> - <img width="143" height="28" alt="image" src="https://github.com/user-attachments/assets/6afe976f-ce81-4cab-9959-0ecd27006392" />
 ### Hello there, fellow Minecrafter!
 
 I am **VamPanMC**, a rather old soul — a few thousand years, give or take. You might notice I’m not your average creature of the night… I’m a vampire–panda hybrid. Quite the rare species, I know. Don’t worry, though — I’ve already fed, so your neck is safe… for now.
